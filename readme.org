@@ -1,0 +1,2 @@
+* vim conditional source test
+  - see [[https://vi.stackexchange.com/q/15299/7010][this]] SO question
